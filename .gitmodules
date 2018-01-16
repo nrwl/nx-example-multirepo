@@ -1,0 +1,6 @@
+[submodule "sharedlib"]
+	path = sharedlib
+	url = https://github.com/nrwl/nx-example-sharedlib
+[submodule "workspace"]
+	path = workspace
+	url = https://github.com/nrwl/nx-example-workspace
